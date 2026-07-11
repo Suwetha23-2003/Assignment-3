@@ -47,3 +47,11 @@ hash: true
     <img src="media/pics/machine1_resistance_boxplot.png" alt="Boxplot of Part Resistance by Pressure and Temperature" style="width:100%;">
   </div>
 </div>
+---
+
+## Boxplot Visualisation
+
+Here is the boxplot showing Part Resistance by Pressure and Temperature for Machine 1:
+
+<img src="media/pics/machine1_resistance_boxplot.png" alt="Boxplot of Part Resistance by Pressure and Temperature" style="width:100%;">
+
