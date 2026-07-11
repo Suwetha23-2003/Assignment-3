@@ -13,10 +13,10 @@ hash: true
 :::: {.columns}
 ::: {.column width="50%"}
 
-## Sample slides
-#### PlaceHolderName
+## Assignment 3 Presentation
+#### Suwetha A/P S Raman Naidu
 #### Universiti Malaysia Perlis
-#### [placeholder@email.com](mailto:placeholder@email.com)
+#### [s241042546@studentmail.unimap.edu.my](mailto:s241042546@studentmail.unimap.edu.my)
 
 <!-- __AUDIO_INTRO_DO_NOT_TOUCH__ -->
 
