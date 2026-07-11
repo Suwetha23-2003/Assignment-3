@@ -44,6 +44,7 @@ hash: true
 
   </div>
   <div class="column" style="width:48%;">
+
     ![](media/pics/machine1_resistance_boxplot.png)
   </div>
 </div>
