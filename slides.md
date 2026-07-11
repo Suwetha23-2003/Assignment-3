@@ -44,7 +44,6 @@ hash: true
 
   </div>
   <div class="column" style="width:48%;">
-
-    ![](media/pics/machine1_resistance_boxplot.png)
+    <img src="media/pics/machine1_resistance_boxplot.png" alt="Boxplot of Part Resistance by Pressure and Temperature" style="width:100%;">
   </div>
 </div>
