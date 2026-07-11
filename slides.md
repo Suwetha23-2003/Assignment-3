@@ -44,6 +44,6 @@ hash: true
 
   </div>
   <div class="column" style="width:48%;">
-    <iframe data-src='media/plots/machine1_resistance_boxplot.html' width='100%' height='500px' style='border:none;'></iframe>
+    ![](media/pics/machine1_resistance_boxplot.png)
   </div>
 </div>
