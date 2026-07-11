@@ -13,10 +13,10 @@ hash: true
 :::: {.columns}
 ::: {.column width="50%"}
 
-## Assignment 3 Presentation
-#### Suwetha A/P S Raman Naidu
-#### Universiti Malaysia Perlis
-#### [s241042546@studentmail.unimap.edu.my](mailto:s241042546@studentmail.unimap.edu.my)
+# Assignment 3 Presentation
+Suwetha A/P S Raman Naidu<br>
+Universiti Malaysia Perlis<br>
+[s241042546@studentmail.unimap.edu.my](mailto:s241042546@studentmail.unimap.edu.my)
 
 <!-- __AUDIO_INTRO_DO_NOT_TOUCH__ -->
 
