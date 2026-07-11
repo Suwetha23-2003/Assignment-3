@@ -1,5 +1,5 @@
 ---
-title-slide: true
+title-slide: false
 bibliography: references.bib
 csl: vancouver.csl
 citeproc: true
